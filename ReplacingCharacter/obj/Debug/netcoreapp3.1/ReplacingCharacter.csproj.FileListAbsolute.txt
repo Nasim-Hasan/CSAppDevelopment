@@ -1,0 +1,13 @@
+C:\MyProjects\ReplacingCharacter\bin\Debug\netcoreapp3.1\ReplacingCharacter.exe
+C:\MyProjects\ReplacingCharacter\bin\Debug\netcoreapp3.1\ReplacingCharacter.deps.json
+C:\MyProjects\ReplacingCharacter\bin\Debug\netcoreapp3.1\ReplacingCharacter.runtimeconfig.json
+C:\MyProjects\ReplacingCharacter\bin\Debug\netcoreapp3.1\ReplacingCharacter.runtimeconfig.dev.json
+C:\MyProjects\ReplacingCharacter\bin\Debug\netcoreapp3.1\ReplacingCharacter.dll
+C:\MyProjects\ReplacingCharacter\bin\Debug\netcoreapp3.1\ReplacingCharacter.pdb
+C:\MyProjects\ReplacingCharacter\obj\Debug\netcoreapp3.1\ReplacingCharacter.csprojAssemblyReference.cache
+C:\MyProjects\ReplacingCharacter\obj\Debug\netcoreapp3.1\ReplacingCharacter.AssemblyInfoInputs.cache
+C:\MyProjects\ReplacingCharacter\obj\Debug\netcoreapp3.1\ReplacingCharacter.AssemblyInfo.cs
+C:\MyProjects\ReplacingCharacter\obj\Debug\netcoreapp3.1\ReplacingCharacter.csproj.CoreCompileInputs.cache
+C:\MyProjects\ReplacingCharacter\obj\Debug\netcoreapp3.1\ReplacingCharacter.dll
+C:\MyProjects\ReplacingCharacter\obj\Debug\netcoreapp3.1\ReplacingCharacter.pdb
+C:\MyProjects\ReplacingCharacter\obj\Debug\netcoreapp3.1\ReplacingCharacter.genruntimeconfig.cache

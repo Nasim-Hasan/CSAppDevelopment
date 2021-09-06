@@ -1,0 +1,12 @@
+C:\MyProjects\OverridingDemo\bin\Debug\netcoreapp3.1\OverridingDemo.exe
+C:\MyProjects\OverridingDemo\bin\Debug\netcoreapp3.1\OverridingDemo.deps.json
+C:\MyProjects\OverridingDemo\bin\Debug\netcoreapp3.1\OverridingDemo.runtimeconfig.json
+C:\MyProjects\OverridingDemo\bin\Debug\netcoreapp3.1\OverridingDemo.runtimeconfig.dev.json
+C:\MyProjects\OverridingDemo\bin\Debug\netcoreapp3.1\OverridingDemo.dll
+C:\MyProjects\OverridingDemo\bin\Debug\netcoreapp3.1\OverridingDemo.pdb
+C:\MyProjects\OverridingDemo\obj\Debug\netcoreapp3.1\OverridingDemo.AssemblyInfoInputs.cache
+C:\MyProjects\OverridingDemo\obj\Debug\netcoreapp3.1\OverridingDemo.AssemblyInfo.cs
+C:\MyProjects\OverridingDemo\obj\Debug\netcoreapp3.1\OverridingDemo.csproj.CoreCompileInputs.cache
+C:\MyProjects\OverridingDemo\obj\Debug\netcoreapp3.1\OverridingDemo.dll
+C:\MyProjects\OverridingDemo\obj\Debug\netcoreapp3.1\OverridingDemo.pdb
+C:\MyProjects\OverridingDemo\obj\Debug\netcoreapp3.1\OverridingDemo.genruntimeconfig.cache

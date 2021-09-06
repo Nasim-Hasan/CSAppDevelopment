@@ -1,0 +1,13 @@
+C:\MyProjects\MultipleInterfacesDemo\bin\Debug\netcoreapp3.1\MultipleInterfacesDemo.exe
+C:\MyProjects\MultipleInterfacesDemo\bin\Debug\netcoreapp3.1\MultipleInterfacesDemo.deps.json
+C:\MyProjects\MultipleInterfacesDemo\bin\Debug\netcoreapp3.1\MultipleInterfacesDemo.runtimeconfig.json
+C:\MyProjects\MultipleInterfacesDemo\bin\Debug\netcoreapp3.1\MultipleInterfacesDemo.runtimeconfig.dev.json
+C:\MyProjects\MultipleInterfacesDemo\bin\Debug\netcoreapp3.1\MultipleInterfacesDemo.dll
+C:\MyProjects\MultipleInterfacesDemo\bin\Debug\netcoreapp3.1\MultipleInterfacesDemo.pdb
+C:\MyProjects\MultipleInterfacesDemo\obj\Debug\netcoreapp3.1\MultipleInterfacesDemo.csprojAssemblyReference.cache
+C:\MyProjects\MultipleInterfacesDemo\obj\Debug\netcoreapp3.1\MultipleInterfacesDemo.AssemblyInfoInputs.cache
+C:\MyProjects\MultipleInterfacesDemo\obj\Debug\netcoreapp3.1\MultipleInterfacesDemo.AssemblyInfo.cs
+C:\MyProjects\MultipleInterfacesDemo\obj\Debug\netcoreapp3.1\MultipleInterfacesDemo.csproj.CoreCompileInputs.cache
+C:\MyProjects\MultipleInterfacesDemo\obj\Debug\netcoreapp3.1\MultipleInterfacesDemo.dll
+C:\MyProjects\MultipleInterfacesDemo\obj\Debug\netcoreapp3.1\MultipleInterfacesDemo.pdb
+C:\MyProjects\MultipleInterfacesDemo\obj\Debug\netcoreapp3.1\MultipleInterfacesDemo.genruntimeconfig.cache

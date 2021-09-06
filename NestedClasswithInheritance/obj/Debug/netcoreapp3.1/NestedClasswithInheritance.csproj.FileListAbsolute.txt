@@ -1,0 +1,13 @@
+C:\MyProjects\NestedClasswithInheritance\bin\Debug\netcoreapp3.1\NestedClasswithInheritance.exe
+C:\MyProjects\NestedClasswithInheritance\bin\Debug\netcoreapp3.1\NestedClasswithInheritance.deps.json
+C:\MyProjects\NestedClasswithInheritance\bin\Debug\netcoreapp3.1\NestedClasswithInheritance.runtimeconfig.json
+C:\MyProjects\NestedClasswithInheritance\bin\Debug\netcoreapp3.1\NestedClasswithInheritance.runtimeconfig.dev.json
+C:\MyProjects\NestedClasswithInheritance\bin\Debug\netcoreapp3.1\NestedClasswithInheritance.dll
+C:\MyProjects\NestedClasswithInheritance\bin\Debug\netcoreapp3.1\NestedClasswithInheritance.pdb
+C:\MyProjects\NestedClasswithInheritance\obj\Debug\netcoreapp3.1\NestedClasswithInheritance.csprojAssemblyReference.cache
+C:\MyProjects\NestedClasswithInheritance\obj\Debug\netcoreapp3.1\NestedClasswithInheritance.AssemblyInfoInputs.cache
+C:\MyProjects\NestedClasswithInheritance\obj\Debug\netcoreapp3.1\NestedClasswithInheritance.AssemblyInfo.cs
+C:\MyProjects\NestedClasswithInheritance\obj\Debug\netcoreapp3.1\NestedClasswithInheritance.csproj.CoreCompileInputs.cache
+C:\MyProjects\NestedClasswithInheritance\obj\Debug\netcoreapp3.1\NestedClasswithInheritance.dll
+C:\MyProjects\NestedClasswithInheritance\obj\Debug\netcoreapp3.1\NestedClasswithInheritance.pdb
+C:\MyProjects\NestedClasswithInheritance\obj\Debug\netcoreapp3.1\NestedClasswithInheritance.genruntimeconfig.cache

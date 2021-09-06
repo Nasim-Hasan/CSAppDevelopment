@@ -1,0 +1,13 @@
+C:\MyProjects\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.exe
+C:\MyProjects\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.deps.json
+C:\MyProjects\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.runtimeconfig.json
+C:\MyProjects\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.runtimeconfig.dev.json
+C:\MyProjects\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.dll
+C:\MyProjects\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.pdb
+C:\MyProjects\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.csprojAssemblyReference.cache
+C:\MyProjects\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.AssemblyInfoInputs.cache
+C:\MyProjects\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.AssemblyInfo.cs
+C:\MyProjects\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.csproj.CoreCompileInputs.cache
+C:\MyProjects\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.dll
+C:\MyProjects\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.pdb
+C:\MyProjects\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.genruntimeconfig.cache

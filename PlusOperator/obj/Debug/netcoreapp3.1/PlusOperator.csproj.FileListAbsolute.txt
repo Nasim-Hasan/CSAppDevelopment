@@ -1,0 +1,13 @@
+C:\MyProjects\PlusOperator\bin\Debug\netcoreapp3.1\PlusOperator.exe
+C:\MyProjects\PlusOperator\bin\Debug\netcoreapp3.1\PlusOperator.deps.json
+C:\MyProjects\PlusOperator\bin\Debug\netcoreapp3.1\PlusOperator.runtimeconfig.json
+C:\MyProjects\PlusOperator\bin\Debug\netcoreapp3.1\PlusOperator.runtimeconfig.dev.json
+C:\MyProjects\PlusOperator\bin\Debug\netcoreapp3.1\PlusOperator.dll
+C:\MyProjects\PlusOperator\bin\Debug\netcoreapp3.1\PlusOperator.pdb
+C:\MyProjects\PlusOperator\obj\Debug\netcoreapp3.1\PlusOperator.csprojAssemblyReference.cache
+C:\MyProjects\PlusOperator\obj\Debug\netcoreapp3.1\PlusOperator.AssemblyInfoInputs.cache
+C:\MyProjects\PlusOperator\obj\Debug\netcoreapp3.1\PlusOperator.AssemblyInfo.cs
+C:\MyProjects\PlusOperator\obj\Debug\netcoreapp3.1\PlusOperator.csproj.CoreCompileInputs.cache
+C:\MyProjects\PlusOperator\obj\Debug\netcoreapp3.1\PlusOperator.dll
+C:\MyProjects\PlusOperator\obj\Debug\netcoreapp3.1\PlusOperator.pdb
+C:\MyProjects\PlusOperator\obj\Debug\netcoreapp3.1\PlusOperator.genruntimeconfig.cache
