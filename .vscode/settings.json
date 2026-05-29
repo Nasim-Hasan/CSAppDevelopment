@@ -1,1 +1,3 @@
-{}
+{
+    "dotnet.defaultSolution": "SealedDemo/SealedDemo.sln"
+}
