@@ -11,3 +11,17 @@ C:\MyProjects\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.csproj.CoreCompileIn
 C:\MyProjects\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.dll
 C:\MyProjects\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.pdb
 C:\MyProjects\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.genruntimeconfig.cache
+c:\MyProjects\CSAppDevelopment\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.exe
+c:\MyProjects\CSAppDevelopment\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.deps.json
+c:\MyProjects\CSAppDevelopment\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.runtimeconfig.json
+c:\MyProjects\CSAppDevelopment\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.runtimeconfig.dev.json
+c:\MyProjects\CSAppDevelopment\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.dll
+c:\MyProjects\CSAppDevelopment\SealedDemo\bin\Debug\netcoreapp3.1\SealedDemo.pdb
+c:\MyProjects\CSAppDevelopment\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\MyProjects\CSAppDevelopment\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.AssemblyInfoInputs.cache
+c:\MyProjects\CSAppDevelopment\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.AssemblyInfo.cs
+c:\MyProjects\CSAppDevelopment\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.csproj.CoreCompileInputs.cache
+c:\MyProjects\CSAppDevelopment\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.sourcelink.json
+c:\MyProjects\CSAppDevelopment\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.dll
+c:\MyProjects\CSAppDevelopment\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.pdb
+c:\MyProjects\CSAppDevelopment\SealedDemo\obj\Debug\netcoreapp3.1\SealedDemo.genruntimeconfig.cache

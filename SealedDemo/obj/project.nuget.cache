@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "X+Ki2juQX5+pXCKodj8FzQWqvkyGHA3vSNSj3zJOwk1YMee+5oFQbiV+bSl7DC6fV1cx3wtX4pVzPgDTiwvoxQ==",
+  "dgSpecHash": "9XLjvo78BrA=",
   "success": true,
-  "projectFilePath": "C:\\MyProjects\\SealedDemo\\SealedDemo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\MyProjects\\CSAppDevelopment\\SealedDemo\\SealedDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nhasa\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nhasa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nhasa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nhasa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
