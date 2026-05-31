@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = SealedDemo
-build_property.ProjectDir = C:\MyProjects\CSAppDevelopment\SealedDemo\
+build_property.ProjectDir = c:\MyProjects\CSAppDevelopment\SealedDemo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

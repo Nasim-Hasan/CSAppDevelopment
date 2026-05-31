@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\CSAppDevelopment\\SealedDemo\\SealedDemo.csproj": {}
+    "c:\\MyProjects\\CSAppDevelopment\\SealedDemo\\SealedDemo.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\CSAppDevelopment\\SealedDemo\\SealedDemo.csproj": {
+    "c:\\MyProjects\\CSAppDevelopment\\SealedDemo\\SealedDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\CSAppDevelopment\\SealedDemo\\SealedDemo.csproj",
+        "projectUniqueName": "c:\\MyProjects\\CSAppDevelopment\\SealedDemo\\SealedDemo.csproj",
         "projectName": "SealedDemo",
-        "projectPath": "C:\\MyProjects\\CSAppDevelopment\\SealedDemo\\SealedDemo.csproj",
+        "projectPath": "c:\\MyProjects\\CSAppDevelopment\\SealedDemo\\SealedDemo.csproj",
         "packagesPath": "C:\\Users\\nhasa\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\CSAppDevelopment\\SealedDemo\\obj\\",
+        "outputPath": "c:\\MyProjects\\CSAppDevelopment\\SealedDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nhasa\\AppData\\Roaming\\NuGet\\NuGet.Config"
