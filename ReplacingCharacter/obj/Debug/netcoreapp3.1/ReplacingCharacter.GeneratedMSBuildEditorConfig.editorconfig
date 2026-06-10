@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = ReplacingCharacter
-build_property.ProjectDir = C:\MyProjects\CSProjects\ReplacingCharacter\
+build_property.ProjectDir = c:\MyProjects\CSAppDevelopment\ReplacingCharacter\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
